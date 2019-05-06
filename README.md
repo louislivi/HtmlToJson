@@ -1,7 +1,7 @@
 # HTML转JSON
 
 #### 介绍
-html转小程序rich-text组件nodes
+html转微信小程序rich-text组件nodes
 
 #### 所需依赖
 
