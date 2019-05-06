@@ -1,4 +1,4 @@
-package com.maiyawx.malladmin.util;
+package com.louislivi.htmltojson;
 
 import com.alibaba.fastjson.JSONObject;
 import org.jsoup.Jsoup;
