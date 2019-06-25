@@ -1,8 +1,9 @@
 # HTML转JSON
 
 #### 介绍
-html转微信小程序rich-text组件nodes
+在小程序中使用富文本以前是采用直接使用富文本但是存在UI兼容问题以及效率低下，目前采用官方推荐的html json格式进行富文本渲染提高渲染速度并且兼容性更好。
 
+![小程序rich-text JAVA如何接入](https://iocaffcdn.phphub.org/uploads/images/201906/25/32040/iwcgqhPcoQ.png!large)
 #### 所需依赖
 
 - jsoup
