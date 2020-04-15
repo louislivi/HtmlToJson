@@ -3,7 +3,7 @@
 #### 介绍
 在小程序中使用富文本以前是采用直接使用富文本但是存在UI兼容问题以及效率低下，目前采用官方推荐的html json格式进行富文本渲染提高渲染速度并且兼容性更好。
 
-![小程序rich-text JAVA如何接入](https://iocaffcdn.phphub.org/uploads/images/201906/25/32040/iwcgqhPcoQ.png!large)
+![小程序rich-text JAVA如何接入](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jZG4ubGVhcm5rdS5jb20vdXBsb2Fkcy9pbWFnZXMvMjAxOTA3LzA2LzMyMDQwL0hqeG1rVTZ3cW4ucG5nIWxhcmdl)
 #### 所需依赖
 
 - jsoup
